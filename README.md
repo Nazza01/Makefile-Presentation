@@ -1,7 +1,7 @@
 # Makefile-Presentation
 The supporting code for the Makefile Presentation at 42 Adelaide - 8th September 2022
 
-See the Makefile.pdf for the presentation, will upload the recording of the presentation when it is available.
+See the Makefiles.pdf for the presentation, will upload the recording of the presentation when it is available.
 
 # Concept Breakdown
 
