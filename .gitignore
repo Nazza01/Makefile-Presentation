@@ -1,0 +1,15 @@
+.vscode/
+build/
+objects/
+
+imported
+
+includes/imported
+testingLibrary
+
+*.o
+*.a
+
+null.d
+
+.DS_Store
